@@ -1,7 +1,3 @@
-Here’s a draft for the `README.md` file for your repository, `advanced-programming-animation`:
-
----
-
 # Advanced Programming Animation
 
 A project showcasing advanced web animations using CSS, HTML, and JavaScript. This repository is dedicated to creating visually appealing and interactive animations for modern web applications.
